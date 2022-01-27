@@ -1,10 +1,10 @@
-/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/CMakeFiles/project_base.dir
-/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/CMakeFiles/STB_IMAGE.dir
-/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/libs/glad/CMakeFiles/edit_cache.dir
-/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/libs/glad/CMakeFiles/rebuild_cache.dir
-/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/libs/glad/CMakeFiles/glad.dir
-/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/libs/imgui/CMakeFiles/rebuild_cache.dir
-/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/libs/imgui/CMakeFiles/edit_cache.dir
-/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir
+/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/CMakeFiles/project_base.dir
+/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/CMakeFiles/STB_IMAGE.dir
+/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/libs/glad/CMakeFiles/edit_cache.dir
+/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/libs/glad/CMakeFiles/rebuild_cache.dir
+/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/libs/glad/CMakeFiles/glad.dir
+/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/libs/imgui/CMakeFiles/rebuild_cache.dir
+/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/libs/imgui/CMakeFiles/edit_cache.dir
+/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir

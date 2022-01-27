@@ -1,4 +1,4 @@
-# Install script for directory: /home/jelena/Downloads/projekat-main(2)/projekat-main/libs/glad
+# Install script for directory: /home/jelena/Downloads/novi_projekat-main (1)/libs/glad
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: /home/jelena/Downloads/projekat-main(2)/projekat-main
+# Install script for directory: /home/jelena/Downloads/novi_projekat-main (1)
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,8 +44,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/libs/glad/cmake_install.cmake")
-  include("/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/libs/imgui/cmake_install.cmake")
+  include("/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/libs/glad/cmake_install.cmake")
+  include("/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/libs/imgui/cmake_install.cmake")
 
 endif()
 
@@ -57,5 +57,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/jelena/Downloads/projekat-main(2)/projekat-main/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/jelena/Downloads/novi_projekat-main (1)/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
